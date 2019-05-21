@@ -1,0 +1,5 @@
+git clone 
+git status
+git add filename
+git commit -m "added file" still on your machine, but not uploaded.
+git push
