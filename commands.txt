@@ -1,8 +1,9 @@
 git clone repository link
 git status
 git add filename, ., -A
-git commit -m "added file" still on your machine, but not uploaded.
+git commit -m "added file" still on your machine, but not uploaded. If you commit without a message enter this command. ESC :wq
 git push
 git pull 
+
 
 More tests
