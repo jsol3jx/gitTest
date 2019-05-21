@@ -1,8 +1,8 @@
 git clone repository link
 git status
-git add filename
+git add filename, ., -A
 git commit -m "added file" still on your machine, but not uploaded.
 git push
-
+git pull 
 
 More tests
