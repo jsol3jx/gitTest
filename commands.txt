@@ -1,4 +1,4 @@
-git clone 
+git clone repository link
 git status
 git add filename
 git commit -m "added file" still on your machine, but not uploaded.
